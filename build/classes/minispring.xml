@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans><a id="1"></a>
+	<bean id="demoDao" class="com.test.dao.impl.DemoDaoImpl"></bean>
+	<beanpackage package="com.test.bean"></beanpackage>
+	<scan package="com.test"></scan>
+	<characterEncoding encoding="UTF-8"></characterEncoding>
+</beans>
